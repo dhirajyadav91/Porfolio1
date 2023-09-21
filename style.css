@@ -1,0 +1,144 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-color: rgb(112, 119, 119);
+            color: white;
+
+        }
+        nav{
+            display:flex;
+            justify-content: space-around;
+            align-items: center;
+            height: 80px;
+            background-color: rgb(103, 131, 131);
+        }
+        nav ul{
+            display: flex;
+            justify-content:center;
+            ;
+
+        }
+        nav ul li{
+            list-style: none;
+            margin: 0 23px;
+            font-size: 1.3rem;
+            cursor: pointer;
+
+        }
+        nav ul a{
+            text-decoration: none;
+            color: white;
+        }
+        nav ul a:hover{
+            color: rgb(12, 12, 192);
+            font-size: 1.5rem;
+        }
+        .left{
+            font-size: 1.7rem;
+        }
+        .firstsection{
+            display: flex;
+            justify-content: space-around;
+            margin: 130px 0;
+           
+
+        }
+        .firstsection div{
+            width: 30%;
+        }
+        .leftsection{
+            font-size: 3rem;
+            margin: 30px;
+            height: 200px;
+        }
+        .rightsection img{
+            width: 80%; 
+        }
+        .effect{
+            color: blue;
+        }
+        .secondsection{
+            max-width: 80vw;
+            margin: auto;
+            height: 80vh;
+        }
+        
+       main hr{
+        margin: 30px;
+
+       } 
+  .greay{
+    color:  blue
+  }
+.secondsection .box{
+    height:2px ;
+    width: 80vwx;
+    background-color:white ;
+    margin:56px 0 ;
+    display: flex;
+
+}  
+
+.secondsection .vertical{
+    height:93px ;
+    width: 1px;
+    background-color:white ;
+    margin:0 100px ;
+    
+}
+
+.button{
+    background-color: rgb(219, 219, 231);
+    padding: 12px;
+    background-color: rgb(132, 132, 173);
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+
+
+    
+
+}
+#btndiv{
+    display: inline-block;
+    position: absolute;
+    top: 470px;
+    left: 230px;
+}
+
+ button:hover{
+    color: blue;
+
+} 
+h2,h5{
+margin-left: 100px;
+
+}
+h3{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
